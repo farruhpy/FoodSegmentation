@@ -1,5 +1,7 @@
 # FoodSegmentation
 
+# Note!: This model is still the first version and its features are not complete as shown below. The model is under development and will be added soon as it is fully featured!
+
 Food Product Recognition and Expiry Date Detection using Deep Learning
 Introduction
 This project aims to develop a deep learning model that can identify food products from images and provide information about their expiration dates. This can help in reducing food waste and ensuring food safety.
