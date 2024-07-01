@@ -37,7 +37,12 @@ Example 3:
 
 
 Below is the prediction made by the model and the actual label:
+
+
+
 ![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/f95048ed-9210-4315-9adf-51d06cb52bff)
+
+
 
 
 
