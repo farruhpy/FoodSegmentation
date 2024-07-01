@@ -22,6 +22,8 @@ Results
 The model achieved an accuracy of 60% on the test dataset. But this model performs at an average accuracy of 85%+ with real images and data.
 Because this indicator is obtained through test data, and there are some errors in this data itself.
 Below are some examples of its predictions:
+
+
 Example 1:
 ![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/02a7a4c4-3ed1-4acf-a3a1-eaa7c6f143e1)
 
