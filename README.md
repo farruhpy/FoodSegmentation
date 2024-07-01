@@ -23,16 +23,22 @@ The model achieved an accuracy of 60% on the test dataset. But this model perfor
 Because this indicator is obtained through test data, and there are some errors in this data itself.
 Below are some examples of its predictions:
 Example 1:
-![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/4c642a17-f3e6-4c0f-a780-9042d46e65a9)
+![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/02a7a4c4-3ed1-4acf-a3a1-eaa7c6f143e1)
+
 
 Example 2:
-![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/17715d5f-22ac-4553-8346-6a1055dba320)
+![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/c25be0a2-3f70-4b23-89b4-79f5266e3921)
+
 
 Example 3:
-![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/b9138ac4-8d86-4172-a31f-dcc62d5a5661)
+![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/83f29ad5-19d9-4651-8201-9e44218eb32a)
+
 
 Below is the prediction made by the model and the actual label:
-![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/dfe8536d-5369-400f-b003-5b8fc5be12fb)
+![image](https://github.com/farruhpy/FoodSegmentation/assets/158803506/f95048ed-9210-4315-9adf-51d06cb52bff)
+
+
+
 As you can see, the picture shows rice but the actual label says it's eggs, which the model correctly predicted as rice.
 
 
